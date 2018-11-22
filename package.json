@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-axios-api",
+  "version": "1.0.0",
+  "description": "",
+  "author": "manniL",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "5.3.6",
+    "nuxt": "^2.1.0"
+  },
+}
